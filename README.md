@@ -4,11 +4,11 @@
 
 ####  **联系作者** 
 
-![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
+![联系作者](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/main-platform-dragonforce.png "联系作者.png")
 
 **这是作者的微信二维码，如需本项目源代码，可扫码或者VX:670488517联系作者。**  
 
-![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
+![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/dragonforce-qr-code.jpg?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 
 ![登陆界面](https://www.skywalking.pro/download/images/animal-platform/WX20230130-172703@2x.png "登陆界面.png")
@@ -315,7 +315,7 @@
 
 **这是作者的微信二维码，如需本项目源代码，可扫码或者VX:670488517联系作者。**  
 
-![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
+![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/dragonforce-qr-code.jpg?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 #### 安装教程
 
